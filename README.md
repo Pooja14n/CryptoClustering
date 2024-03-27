@@ -58,3 +58,11 @@ In this challenge, we have to predict if cryptocurrencies are affected by 24-hou
     (iii)Add the "coin_id" column in the `hover_cols` parameter to identify the cryptocurrency represented by each data point.
   f. Answer the following question:
     a. What is the impact of using fewer features to cluster the data using K-Means?
+
+# References
+Referred to various class activity exercises, got support from Assistant Instructor, and websites: Python Documentation, https://stackoverflow.com, https://htmlcolorcodes.com/, https://holoviews.org/, https://hvplot.holoviz.org/user_guide/Plotting.html, https://holoviz.org/tutorial/Composing_Plots.html, https://colab.research.google.com/github/holoviz-community/HoloViz_KDD2022/blob/main/02_Plotting.ipynb?authuser=1#scrollTo=2a114743.
+
+# Files submitted including this README File
+-> CryptoClustering Folder 
+  a. Resources Folder -> crypto_market_data.csv (contains the CSV file)
+  b. Crypto_Clustering.ipynb (contains the srcipt)
